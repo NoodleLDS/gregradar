@@ -10,6 +10,8 @@ int main() {
         printf("Voce nao e para o Greg.\n");
     } else {
         printf("Voce e para Gameles.\n");
+        getchar();
+        getchar();
     }
     return 0;
 }
